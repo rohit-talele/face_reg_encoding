@@ -1,0 +1,9 @@
+{
+    "server": "127.0.0.1",
+    "username": "root",
+    "password": "5jan2005@Birthday",
+    "database": "rohit",
+    "attendance_table_name": "your_attendance_table",
+    "mysql_unknown_name_table": "your_unknown_name_table",
+    "personnel_table_name": "your_personnel_table"
+}
